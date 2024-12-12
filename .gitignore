@@ -1,0 +1,21 @@
+
+# Node modules
+node_modules/
+client/node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Build output
+dist/
+build/
+
+# Environment variables
+.env
+client/.env
+
+# Dependency lockfiles
+package-lock.json
+client/package-lock.json
